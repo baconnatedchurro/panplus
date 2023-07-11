@@ -2,7 +2,7 @@
     "name": "Panopto Plus",
     "version": "1.4.11",
     "description": "Improve your webcasting experience!",
-    "manifest_version": 2,
+    "manifest_version": 3,
     "permissions": ["tabs", "storage"],
     "background": {
         "persistent": false,
